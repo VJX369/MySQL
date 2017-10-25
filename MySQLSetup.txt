@@ -1,0 +1,20 @@
+Installation of My SQL server
+
+Below link has step by step procedure to install My Sql on MAC
+
+https://dev.mysql.com/doc/mysql-osx-excerpt/5.7/en/osx-installation.html
+
+Important Disclaimer
+
+During the end of installation following message is displayed in a pop window
+
+2017-10-25T02:46:04.209277Z 1 [Note] A temporary password is generated for root@localhost: Qi,h9.R?pLrV
+
+If you lose this password, please consult the section How to Reset the Root Password in the MySQL reference manual.
+
+Thank you for installing MySQL Server. 
+
+Online resources:
+	• MySQL Reference Manual
+	• www.MySQL.com
+        • www.Oracle.com
